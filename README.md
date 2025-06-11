@@ -30,10 +30,11 @@ Welcome to **Bayked**, a user-friendly and feature-rich food delivery applicatio
 ## App Screenshots:
 
 ![unnamed-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/e926239a-e3ea-45ed-ac36-24f86a08fbb9)
-![unnamed (2)](https://github.com/user-attachments/assets/11fc9093-62f4-4e7f-b688-9896eda3f348)
 ![unnamed (1)](https://github.com/user-attachments/assets/659dd5d2-9210-4b1e-a34d-89d116fd4975)
-![unnamed (4)](https://github.com/user-attachments/assets/a9cfaa70-b73d-4110-b101-2bb88b88a8b8)
+![unnamed (2)](https://github.com/user-attachments/assets/11fc9093-62f4-4e7f-b688-9896eda3f348)
 ![unnamed (3)](https://github.com/user-attachments/assets/9501f42e-32c2-4c12-ac6e-127bbe313660)
+![unnamed (4)](https://github.com/user-attachments/assets/a9cfaa70-b73d-4110-b101-2bb88b88a8b8)
+
 
 
 ---
